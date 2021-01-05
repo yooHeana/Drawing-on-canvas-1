@@ -1,13 +1,19 @@
 # bouncing-ball
-for Practicing Creative, Interactive Coding (with YouTube tutorials)
+Tried to draw a ball which bounces from the window and the bar in middle.
+Projects for Practicing Creative, Interactive Coding (with YouTube tutorials)
 
-Preview(gif)
--------------
-<div>
-<img src="/path/to/bouncing-ball-preview.gif" width="450px" height="300px"</img>
-</div>
+[GO TO THE PAGE>>>>] (https://yooheana.github.io/Drawing-on-canvas-1/)
 
+[![Preview](./bouncing-ball-preview.gif)](https://yooheana.github.io/Drawing-on-canvas-1/)
 
 
 Details
 -------------
+* if the ball reach the window (of browser), 
+* if the ball reach the bar,
+      the ball bounces.
+      
+      
+## Built With
+
+* JavaScript Canvas
